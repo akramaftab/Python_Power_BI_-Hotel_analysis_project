@@ -1,5 +1,3 @@
-Here is the final README content incorporating your analysis, dashboard work, and clear, human business recommendations in a professional and approachable style:
-
 ***
 
 # Hotel Booking Cancellations Analysis
