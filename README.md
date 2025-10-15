@@ -48,8 +48,6 @@ https://github.com/akramaftab/Python_Power_BI_-Hotel_analysis_project/blob/main/
 
 ***
 
-## Impact
 
 ***
 
-This README content highlights crucial facts, actions, and measurable impact in an approachable tone for diverse readers, perfect for your GitHub project presentation.
