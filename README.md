@@ -13,9 +13,8 @@ This project analyzes over 119,000 hotel bookings to understand why and when can
 
 - **Data Collection & Cleaning:** Imported booking records capturing reservation details, guest types, pricing (Average Daily Rate), countries, booking channels, and cancellation status.
   
-- **([Python Analysis]("
-https://github.com/akramaftab/Python_Power_BI_-Hotel_analysis_project/blob/main/Hotel%20Booking%20Cancellations%20Analysis%20Report.pdf
-  )):**  
+- **([Python Analysis](
+https://github.com/akramaftab/Python_Power_BI_-Hotel_analysis_project/blob/main/Hotel%20Booking%20Cancellations%20Analysis%20Report.pdf)):**  
   Explored data patterns, seasonality, guest segmentation, geographic origin, and cancellation timing using pandas and visualization libraries.
   
 - **Power BI Dashboard:**  
